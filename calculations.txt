@@ -1,0 +1,28 @@
+I want furnace to be able to hold 2kg of metal on average. The least dense metal frequently
+used is aluminum which has a density of 2.7 cm3/g. This matters because the
+least dense metal would take the largest volume.=
+This means that 2000g of aluminum would
+would take 1/2.7 of the space an equivalent amount of water would take. 2000 / 2.7 = 740.74 ml or cm3 (same unit)
+This means the furnace active volume must be able to hold 740.74 ml of water to be a 2kg furnace.
+If the furnace chamber was a perfect cube then each side would be the cube = root of 740.74
+would be 9 cm. I want the chamber to be taller rather than cubic
+but calculation the sides of a cube helped me decide what base dimensions I wanted
+for the furnace. I want it to be a little bigger than that so that I can safely
+place a 2kg graphite crucible inside without it being too close to the
+heating coil. The 2kg crucible is 58mm dia 110mm tall. I will
+make the chamber 100x100x150. There is no specific reason for this
+except that it matches my needs and has a little extra room in case I need
+it.
+The perlite is bound using silicon dioxide deposited via water glass.
+This should have a glass transition temp of about 1200c. So it will just barely work.
+The brick will get soft and sticky if heated to 1200 or above but the heater
+is recommended for max 1150c so it should be fine. After googling
+a bunch it seems that 5cm is roughly enough. I will make the walls 5cm
+thick to increase strength and reduce heat leakage.
+lid = 200 x 200 x 50 = 2000 cm3 (2L)
+active volume = 100 x 100 x 150 = 1500 cm3 (1.5L)
+furnace main body without active volume = 200 x 200 x 200 = 8000 cm3 (8L)
+furnace total volume = 8L - 1.5L = 6.5L
+total brick mix volume = 6.5L (body) + 2L (lid) = 8.5L
+I used one batch of water glass per 2L of perlite. I had to add about 200ml of water to evenly distribute the water glass and to make the mixture workable.
+All the water should evaporate during baking/drying.
